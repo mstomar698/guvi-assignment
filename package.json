@@ -1,0 +1,11 @@
+{
+  "name": "guvi-assignment",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "install": "cd backend && npm install && cd ../frontend && npm install && cd ..",
+    "build": "cd backend && npm run build && cd ../frontend && npm run build && cd ..",
+    "serve": "cd backend && node dist/server.js",
+    "start": "cd frontend && npm run start"
+  }
+}
