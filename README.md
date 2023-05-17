@@ -63,6 +63,6 @@ For Admin Access
 
 ```sh
 Email: user1@user.com
-Password: user1
+Password: *********
 # OR JUST CREATE A NEW ACCOUNT
 ```
